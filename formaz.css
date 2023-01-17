@@ -1,0 +1,52 @@
+body{
+    background-color: #ffccaa;
+    font-family: Tahoma;
+    font-size: 14px;
+}
+
+a{
+    color: #a04000;
+}
+
+h1{
+    color: #a04000;
+    text-transform: uppercase;
+}
+
+#kep1{
+    width: 150px;
+    margin: 5px 20px 5px 20px;
+    float: left;
+}
+
+#kep2{
+    width: 195px;
+    margin: 5px 20px 5px 20px;
+    float: right;
+}
+
+#elsobek{
+    text-align: justify;
+}
+
+#masodikbek{
+    text-align: justify;
+    margin-bottom: 200px;
+}
+
+#jobbsor{
+    text-align: left;
+}
+
+#kozepso{
+    text-align: center;
+}
+
+#balsor{
+    text-align: right;
+    vertical-align: bottom;
+}
+
+table{
+    width: 100%;
+}
